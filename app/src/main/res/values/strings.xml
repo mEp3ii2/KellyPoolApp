@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KellyPool</string>
+    <string name="select_number_of_players">Select number of players:</string>
+    <string name="players_2">Players: %1$d</string>
+    <string name="select_balls_per_player">Select balls per player:</string>
+    <string name="balls_per_player_1">Balls per player: %1$d</string>
+    <string name="confirm">Confirm</string>
+    <string name="start">Start</string>
+    <string name="rules">Rules</string>
+    <string name="enter_player_names">Enter Player Names</string>
+    <string name="submit">Submit</string>
+    <string name="player_name">Player Name</string>
+    <string name="next">Next</string>
+    <string name="new_game">New Game</string>
+    <string name="home">Home</string>
+</resources>
